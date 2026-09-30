@@ -1,0 +1,6 @@
+{
+  "name": "Orbital Surge",
+  "description": "A fast-paced 2D canvas orbital defense arcade game with responsive mouse/touch/keyboard controls, combo scoring, and dynamic waves.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
